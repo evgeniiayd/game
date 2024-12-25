@@ -152,8 +152,6 @@ def main():
             hit_text_render = font.render(hit_text, True, color)
             screen.blit(hit_text_render, (WIDTH // 2 - hit_text_render.get_width() // 2, HEIGHT // 2))
 
-        # Проверка на выход за границы
-        notes = [note for note in notes if note[1] < HEIGHT]  # Удаляем ноты, вышедшие за границы
 
         # Пропущенные ноты
         if any(note[1] > HEIGHT for note in notes):

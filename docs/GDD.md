@@ -89,6 +89,4 @@
 
 • Ссылки на классические платформеры для вдохновения.
 
-Ритм-игра Malody V: https://store.steampowered.com/app/1512940/Malody_V/
-
 Ритм-игра DJMax Respect: https://www.djmaxrespect.com
